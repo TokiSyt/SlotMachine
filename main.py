@@ -9,7 +9,7 @@ symbols_amount = {
 }
 
 
-Three_symbols_value = {
+three_symbols_value = {
     "*" : 4,
     "º" : 3,
     "?" : 2,
@@ -17,7 +17,7 @@ Three_symbols_value = {
 }
 
 
-Two_symbols_value = {
+two_symbols_value = {
     "*" : 1.8,
     "º" : 1.3,
     "?" : 1.2,
@@ -160,7 +160,7 @@ def spin(balance):
     slots = get_slot_spins(ROWS, COLS, symbols_amount)
     print_slot_machine(slots)
 
-    winnings, winning_lines = check_winnings(slots, lines_number, bet_amount, Two_symbols_value, Three_symbols_value)
+    winnings, winning_lines = check_winnings(slots, lines_number, bet_amount, two_symbols_value, three_symbols_value)
     winnings = int(winnings)
 
     print(f"You won: {winnings} czk!")
