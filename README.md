@@ -1,6 +1,6 @@
 # Slot Machine
 
-How to Play
+HOW TO PLAY
 
 Step 1: Start the game. You will be prompted to deposit an amount into the machine.
 
@@ -18,4 +18,4 @@ Step 7: When you choose to leave the slot machine, there are two outcomes:
 
   Case 1: If you have a positive balance, you leave with your remaining funds.
 
-Case 2: If you're out of funds, unfortunately, you may not be able to provide Christmas presents for your kids.
+  Case 2: If you're out of funds, unfortunately, you may not be able to provide Christmas presents for your kids.
