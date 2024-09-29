@@ -15,6 +15,5 @@ Step 5: The results may vary based on symbol occurrence. If the same symbol appe
 Step 6: If your balance remains positive, you can repeat from Step 2.
 
 Step 7: When you choose to leave the slot machine, there are two outcomes:
-
-    Case 1: If you have a positive balance, you leave with your remaining funds.
-    Case 2: If you're out of funds, unfortunately, you may not be able to provide Christmas presents for your kids.
+   Case 1: If you have a positive balance, you leave with your remaining funds.
+   Case 2: If you're out of funds, unfortunately, you may not be able to provide Christmas presents for your kids.
