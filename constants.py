@@ -1,6 +1,5 @@
 MAX_LINES = 3
 MAX_BET = 50000
 MIN_BET = 25
-
 ROWS = 3
 COLS = 3
