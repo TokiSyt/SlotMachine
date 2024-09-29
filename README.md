@@ -1,6 +1,7 @@
 # Slot Machine
 
 How to Play
+
 Step 1: Start the game. You will be prompted to deposit an amount into the machine.
 
 Step 2: Confirm whether you wish to play or quit the game.
